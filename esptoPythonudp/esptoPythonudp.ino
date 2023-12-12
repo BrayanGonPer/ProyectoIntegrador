@@ -1,7 +1,8 @@
   #include <ESP8266WiFi.h>
   #include <WiFiUdp.h>
-  const char* ssid = "INFINITUM0649";
-  const char* password = "467H3EGEvy";
+  
+const char* ssid = "INFINITUM856E";
+const char* password = "4NfbN2Zsfz";
  
 int contconexion = 0;
 
